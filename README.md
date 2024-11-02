@@ -60,8 +60,7 @@
 **Github Stats:**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vadili-haki&hide=stars&show_icons=true&theme=dracula&line_height=32">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vadili-haki&hide=stars&show_icons=true&theme=dracula&line_height=32"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadili-haki&count_private=true&theme=dracula">
 
 </p>
