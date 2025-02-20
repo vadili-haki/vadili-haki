@@ -56,13 +56,4 @@
 <code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
----
-**Github Stats:**
 
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=vadili-haki&hide=stars&show_icons=true&theme=dracula&line_height=32"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadili-haki&count_private=true&theme=dracula">
-
-</p>
-
----
