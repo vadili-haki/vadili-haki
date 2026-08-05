@@ -4,10 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](hakivadili14@gmail.com)
 
 
-    I'm a creative developer focused on frontend and WebGL development, interface design,
-    creative direction, interaction and animation.
+    Turning "what if❔️" into "here it is.🔥"
     //
-    I try to bring every experience to the highest quality.
+    Less noise 🎶. More building 🏗
     
   ```javascript
   while(! (successes  = Try() ) );
